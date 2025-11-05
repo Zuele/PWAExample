@@ -26,7 +26,7 @@ async function requestPermission() {
 // Mostra una notifica locale
 function showNotification() {
   const options = {
-    body: "Questa è una notifica di test cambiata pero 🔔",
+    body: "Questa è una notifica di test per Iphone 🔔",
     icon: "https://cdn-icons-png.flaticon.com/512/1827/1827272.png",
     badge: "https://cdn-icons-png.flaticon.com/512/1827/1827272.png",
     tag: "test",
